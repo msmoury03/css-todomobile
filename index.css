@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-size: 50px;
+    
+}
+.task{
+    
+    font-weight: 900;
+}
+
+.text{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+i{
+   
+    margin-left: 450px;
+}
+
+.add{
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 40px;
+    
+    
+}
+
+.fa-plus-circle{
+    color: rgb(221, 89, 12);
+    font-size: 35px;
+}
+
+.btxt{
+    font-size: 25px;
+    color: rgb(221, 89, 12);
+    font-family: 'Open Sans', sans-serif;
+    margin-left: -40px;
+}
+
+.container{
+    justify-content: center;
+    display: flex;
+}
+
+.container .box{
+    text-align: center;
+    border: 1px solid rgb(221, 89, 12);
+    border-radius: 15px;
+    width: 200px;
+    height: 350px;
+    padding-left: 30px;
+    margin: 0px 30px 0px 30px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.30);
+}
+
+.com{
+    text-decoration: line-through;
+    font-size: 25px;
+    color: red;
+}
+
+.check{
+    font-size: 21px;
+    margin-left: -90px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+}
+
+.checkbo{
+    width: 23px;
+    height: 23px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(211, 59, 12);
+}
+
+
+
